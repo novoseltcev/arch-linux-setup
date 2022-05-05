@@ -1,0 +1,17 @@
+{
+    "remove_dirs": [
+        "Desktop",
+        "Documents",
+        "Video",
+        "Music"
+    ],
+
+    "app": [
+        "telegram-desktop",
+        "brave-browser",
+        "discord",
+        "dolphin",
+        "zoom",
+        "spotify"
+    ]
+}

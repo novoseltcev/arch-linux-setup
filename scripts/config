@@ -1,0 +1,8 @@
+{
+    app: [
+        "magic-wormhole",
+        "bat",
+        "ripgrep",
+        "feh"
+    ]
+}
